@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/xtnsQP8J" alt="FlagX Logo" width="150"/>
+  <img src="https://i.postimg.cc/qB3jZYg2/image-2.png" alt="FlagX Logo" width="150"/>
   <h1>FlagX - The Ultimate CTF Social Hub & Platform</h1>
   <p>
     <strong>Where Hackers Connect, Compete, and Conquer.</strong>
