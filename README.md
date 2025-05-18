@@ -119,7 +119,7 @@ FlagX is built primarily with front-end technologies, showcasing what's possible
 
 ## 🚀 Getting Started
 
-To get a local copy up and running, follow these simple steps.
+To get a local copy up and running, follow these simple steps (FrontEnd) . 
 
 ### Prerequisites
 
