@@ -29,7 +29,7 @@
 Our platform boasts a **stunning, responsive design** inspired by modern hacker interfaces, ensuring an engaging experience across all devices. With its signature **Dynamic Island** navigation, FlagX offers intuitive access to a rich set of features, making it a breeze to navigate through challenges, connect with peers, and track your progress.
 
 <div align="center">
-  <img src="https://ibb.co/svb6jX96" alt="FlagX Interface Screenshot" width="700"/>
+  <img src="https://i.postimg.cc/6QqhVbD2/IMG-2834.jpg" alt="FlagX Interface Screenshot" width="700"/>
   <p><i>FlagX in Action - A glimpse into our unique user experience.</i></p>
 </div>
 
@@ -148,24 +148,24 @@ No compilation or build process is necessary for this front-end focused version.
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://ibb.co/Y4VcxZjh" alt="Dynamic Island Collapsed" width="300"/></td>
-    <td><img src="https://ibb.co/0yyFSpP8" alt="Dynamic Island Expanded Grid" width="300"/></td>
+    <td><img src="https://i.postimg.cc/nrbYJFMB/IMG-2827.jpg" alt="Dynamic Island Collapsed" width="300"/></td>
+    <td><img src="https://i.postimg.cc/Zn8PYGyg/IMG-2829.jpg" alt="Dynamic Island Expanded Grid" width="300"/></td>
   </tr>
   <tr>
     <td align="center"><i>Collapsed Dynamic Island</i></td>
     <td align="center"><i>Expanded Main Grid</i></td>
   </tr>
   <tr>
-    <td><img src="https://ibb.co/8Dm9tsXD" alt="Comments in Island" width="300"/></td>
-    <td><img src="https://ibb.co/5h8qZPtM" alt="Profile Settings" width="300"/></td>
+    <td><img src="https://i.postimg.cc/zDKFkgPj/IMG-2830.jpg" alt="Comments in Island" width="300"/></td>
+    <td><img src="https://i.postimg.cc/dtFmNVbK/IMG-2831.jpg" alt="Profile Settings" width="300"/></td>
   </tr>
   <tr>
     <td align="center"><i>Interactive Comments</i></td>
     <td align="center"><i>Profile Settings</i></td>
   </tr>
     <tr>
-    <td><img src="https://ibb.co/dsv4DnWK" alt="Main Feed with Post" width="300"/></td>
-    <td><img src="https://ibb.co/NdMp0pzN" alt="Mobile Responsive View" width="300"/></td>
+    <td><img src="https://i.postimg.cc/X7gKR0WB/IMG-2832.jpg" alt="Main Feed with Post" width="300"/></td>
+    <td><img src="https://i.postimg.cc/FHsbmnFW/IMG-2833.jpg" alt="Mobile Responsive View" width="300"/></td>
   </tr>
   <tr>
     <td align="center"><i>Engaging Social Feed</i></td>
