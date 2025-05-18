@@ -164,8 +164,8 @@ No compilation or build process is necessary for this front-end focused version.
     <td align="center"><i>Profile Settings</i></td>
   </tr>
     <tr>
-    <td><img src="https://i.postimg.cc/X7gKR0WB/IMG-2832.jpg" alt="Main Feed with Post" width="300"/></td>
-    <td><img src="https://i.postimg.cc/FHsbmnFW/IMG-2833.jpg" alt="Mobile Responsive View" width="300"/></td>
+    <td><img src="https://i.postimg.cc/GhzYMJPk/IMG-2832.jpg" alt="Main Feed with Post" width="300"/></td>
+    <td><img src="https://i.postimg.cc/Qdt7v9Sv/IMG-2833.jpg" alt="Mobile Responsive View" width="300"/></td>
   </tr>
   <tr>
     <td align="center"><i>Engaging Social Feed</i></td>
